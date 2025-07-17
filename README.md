@@ -6,3 +6,4 @@ The excel file gives detail about the dimension tables and views created. The fi
 2. Screenshot
 3. <img width="2109" height="1122" alt="image" src="https://github.com/user-attachments/assets/5222ab5c-ac1e-4705-a68a-8c82e8be4739" />
 <img width="1350" height="718" alt="image" src="https://github.com/user-attachments/assets/495a35c7-0714-4ec9-8fcb-ed518ce6acae" />
+All other codes are in the excel file : Note taken while creating dimension tables..........
